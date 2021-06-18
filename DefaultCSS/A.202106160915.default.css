@@ -1,0 +1,17 @@
+/*background*/
+body, header, div, article
+{
+    background-color: black !important;
+}
+/*fonts*/
+p, a, b, span, h1, h2, h3, h4, h5, ul, li
+{
+    color: white !important;
+}
+/*link*/
+a:link, a:active, a:hover
+{
+    color: yellowgreen !important;
+}:visited{
+    color: orange !important;
+}

@@ -7,7 +7,7 @@
 
 ---
 
-## English
+## English (Translated with www.DeepL.com/Translator)
 [Guide](guide.en.md)
 
 [Learning](learn.en.md)

@@ -3,7 +3,7 @@ Dark theme css for all websites.
 
 [Japanese](README.md)|[English](README.en.md)
 
----.
+---
 
 # English
 
@@ -34,9 +34,11 @@ Having a website support dark themes will help a lot of people's eyes.
 
 ## Guide
 Learn about CSS and dark themes with our guide.  
-[Usage guide](/DOCS/howtouse.en.md)  
+[Usage guide](/DOCS/guide.en.md)  
   
 [What is a dark theme](DOCS/learn.en.md)  
+
+---
 
 ## Development Policy
 
@@ -61,7 +63,7 @@ This project is the copyrighted work of [Mente Corp. - mente-corp.com](https://m
 ## Conflict Warning
 This project has potential conflicts with some Chrome Extensions, but this project is intended to provide pure CSS and related documentation only, and does not infringe on any rights.
 
----.
+---
 
 # Disclaimers and warnings
 

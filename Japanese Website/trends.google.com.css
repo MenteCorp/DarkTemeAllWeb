@@ -1,0 +1,21 @@
+/*default_20210614*/
+html, body, header, footer, div, article, ul, li, td, address, p, a, b, span, strong, small, h1, h2, h3, h4, h5, aside, iframe, nav, form, th, tr, blockquote
+{
+    background-color: black !important;
+    color: white !important;
+}
+/*link*/
+a:link, a:active, a:hover
+{
+    color: yellowgreen !important;
+}:visited{
+    color: orange !important;
+}
+
+/*GoogleSearch*/
+input{
+    background-color: pink !important;
+}
+cite{
+    color: yellow;
+}

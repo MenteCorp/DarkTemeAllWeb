@@ -1,6 +1,6 @@
 # Usage guide
 
-## Step.1 Install the extension
+## Install the extension
 
 ---
 
